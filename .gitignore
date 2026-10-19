@@ -1,0 +1,11 @@
+# Локальное состояние интерфейса Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Локальная корзина и временные файлы
+.trash/
+.obsidian/cache/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
