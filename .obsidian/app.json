@@ -1,10 +1,10 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Вложения",
-  "trashOption": "none",
+  "trashOption": "local",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
